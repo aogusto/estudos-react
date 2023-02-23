@@ -11,7 +11,7 @@ O objetivo desse repositório é registrar o meu progresso e servir como um port
 Aqui está uma lista de tópicos que eu aprendi e/ou que serão cobertos no curso:
 
 - [x] Introdução
-- [ ] Fundamentos do React
+- [x] Fundamentos do React
 - [ ] Avançando em React
 - [ ] React e CSS
 - [ ] Formulários com React
